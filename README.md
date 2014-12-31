@@ -2,7 +2,7 @@ generator-quill
 ===============
 
 A yeoman generator for Quill Angular Projects
-
+ 
 This is a fork of https://github.com/jgoux/generator-angulpify/. This repo
 isn't intended to be merge back in. We will occasionally pull upstream changes.
 
